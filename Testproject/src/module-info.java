@@ -6,4 +6,5 @@
  *
  */
 module Testproject {
+	pri
 }
